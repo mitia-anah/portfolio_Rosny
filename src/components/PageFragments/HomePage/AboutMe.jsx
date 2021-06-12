@@ -11,7 +11,7 @@ const pageText = {
     technologies. I have an experience of nearly two years using Javascript,HTML/CSS and React.I love building website and application and my desire is to experience new technology to my project.
     I used to update my blog about my sprint in learning technology, which you are free to look at. 
     `,
-  paraTwo: `.....`,
+  paraTwo: 'Currently, I am still progressing my knowledge at ONja, training to get used to use different frameworks. In web, there is always new thing to learn, which I want to go through and dev into them.',
 };
 
 const AboutMe = () => {

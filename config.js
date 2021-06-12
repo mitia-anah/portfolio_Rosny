@@ -19,7 +19,7 @@ module.exports = {
   },
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || 'rosny',
-  works: {
+  tags: {
     birthdayApp: {
       name: 'Birthday App',
       description: 'Birthday app is an application that is built to help people to remember their birth dates and ages. It is built with only HTML/CSS and javascript functionality.',

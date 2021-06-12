@@ -23,7 +23,7 @@ const SkillsProgress = () => (
           percent={70}
           text="Redux"
         />
-         <ProgressBar
+        <ProgressBar
           percent={50}
           text="Typescript"
         />
